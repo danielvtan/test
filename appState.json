@@ -1,0 +1,91 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "7af6beb6-d4b3-48b8-8faa-ce55b33a6b9a": {
+        "id": "7af6beb6-d4b3-48b8-8faa-ce55b33a6b9a",
+        "parent": null,
+        "name": "Test.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "Test.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 23
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "Test"
+        },
+        "triggers": [],
+        "lastUpdated": 1606804113276
+      },
+      "db1298c8-845e-4c08-955d-4ba4cc559700": {
+        "id": "db1298c8-845e-4c08-955d-4ba4cc559700",
+        "parent": null,
+        "name": "serverless.yaml",
+        "type": "YAML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "serverless.yaml",
+        "lastUpdated": 1606804120113
+      }
+    },
+    "openFiles": [
+      "7af6beb6-d4b3-48b8-8faa-ce55b33a6b9a",
+      "db1298c8-845e-4c08-955d-4ba4cc559700"
+    ],
+    "currentFileId": "db1298c8-845e-4c08-955d-4ba4cc559700",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {
+        "serverless": {
+          "name": "serverless",
+          "version": "2.13.0",
+          "dev": false,
+          "language": "nodejs"
+        }
+      }
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.4.1",
+    "projectName": "Test",
+    "projectDescription": "Test",
+    "projectVersion": "1.0.0",
+    "projectRegion": "ap-southeast-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1606804410742
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test",
+      "url": "https://github.com/danielvtan/test"
+    }
+  }
+}

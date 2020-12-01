@@ -1,0 +1,8 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "dependencies": {
+    "serverless": "2.13.0"
+  },
+  "devDependencies": {}
+}
